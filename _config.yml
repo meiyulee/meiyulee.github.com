@@ -1,15 +1,23 @@
 # Site settings
-title: 李玫郁 Mei-Yu Lee
-description: 數字經濟研究者
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "http://meiyulee.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-
-# User settings
-username: Mei-Yu Lee
-user_description: 
+title: Mei-Yu Lee
 email: mylee@gm.ypu.edu.tw
-twitter_username: hwasion
-github_username:  meiyulee
+description: "數字與經濟的對話"
+logo_location: "https://placeholdit.imgix.net/~text?txtsize=30&bg=F8F8F8&txtclr=002E62&txt=LOGO&w=100&h=100"
 
+#baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+#url: "http://meiyulee.github.io" # the base hostname & protocol for your site
 
-exclude: ['package.json', 'src' , 'node_modules']
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+#Other Global Configuration
+exclude: ['README.md']
+
+excerpt_separator: <!--more-->
+
+#show the jumbotron header on index page
+show_blog_header: true
