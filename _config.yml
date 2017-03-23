@@ -1,1 +1,15 @@
-theme: jekyll-theme-hacker
+# Site settings
+title: 李玫郁 Mei-Yu Lee
+description: 數字經濟研究者
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "http://meiyulee.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Mei-Yu Lee
+user_description: 
+email: mylee@gm.ypu.edu.tw
+twitter_username: hwasion
+github_username:  meiyulee
+
+
+exclude: ['package.json', 'src' , 'node_modules']
