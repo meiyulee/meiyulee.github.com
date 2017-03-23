@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: big-data data-mining 巨量資料 統計 機率 資料探勘 
+tags: big_data data_mining 巨量資料 統計 機率 資料探勘 
 date: 2016-11-11 13:08
 thumbnail: http://placehold.it/100x100
 title: 大數據 (big data) 分析的困境
