@@ -3,6 +3,7 @@
 
 - Journal papers
 
+
 ```markdown
 
 - 邱登裕、端木和奕、謝素真、**李玫郁**，2016，以多重彈性倒傳遞類神經模型探討台灣4G概念股股價的變動，會計與財金研究。(通訊作者)
@@ -28,4 +29,7 @@
 - Yi-Hsien Wang, **Mei-Yu Lee** and Che-Yang Lin, 2008, General Election, Political Change and Market Efficiency: Long- and Short-term Perspective in Developed Stock Market, Journal of Money, Investment and Banking, No. 3, 58-67.(EconLit)
 
 ```
+
+
+
 
